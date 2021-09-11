@@ -67,35 +67,43 @@ A unified benchmark is coming soon :)
 
    *Shijie Geng, Peng Gao, Zuohui Fu, Yongfeng Zhang.* [[pdf](https://arxiv.org/pdf/2101.09755.pdf)]
 
-7. **Accelerating BERT Inference for Sequence Labeling via Early-Exit.** ACL 2021.
+7. **BERxiT: Early Exiting for BERT with Better Fine-Tuning and Extension to Regression.** EACL 2021.
+
+   *Ji Xin, Raphael Tang, Yaoliang Yu, Jimmy Lin.* [[pdf](https://aclanthology.org/2021.eacl-main.8.pdf)]
+
+8. **Accelerating BERT Inference for Sequence Labeling via Early-Exit.** ACL 2021.
 
    *Xiaonan Li, Yunfan Shao, Tianxiang Sun, Hang Yan, Xipeng Qiu, Xuanjing Huang.* [[pdf](https://aclanthology.org/2021.acl-long.16.pdf)]
 
-8. **LeeBERT: Learned Early Exit for BERT with Cross-Level Optimization.** ACL 2021.
+9. **LeeBERT: Learned Early Exit for BERT with Cross-Level Optimization.** ACL 2021.
 
    *Wei Zhu.* [[pdf](https://aclanthology.org/2021.acl-long.231.pdf)]
 
-9. **TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference.** ACL 2021.
+10. **TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference.** ACL 2021.
 
    *Deming Ye, Yankai Lin, Yufei Huang, Maosong Sun.* [[pdf](https://aclanthology.org/2021.naacl-main.463.pdf)]
 
-10. **Class Means as an Early Exit Decision Mechanism.** Preprint Mar 2021.
+11. **EBERT: Efficient BERT Inference with Dynamic Structured Pruning.** ACL 2021.
+
+    *Zejian Liu, Fanrong Li, Gang Li, Jian Cheng.* [[pdf](https://aclanthology.org/2021.findings-acl.425.pdf)]
+
+12. **Class Means as an Early Exit Decision Mechanism.** Preprint Mar 2021.
 
     *Alperen Gormez, Erdem Koyuncu.* [[pdf](https://arxiv.org/pdf/2103.01148.pdf)]
 
-11. **Early Exiting with Ensemble Internal Classifiers.** Preprint May 2021.
+13. **Early Exiting with Ensemble Internal Classifiers.** Preprint May 2021.
 
     *Tianxiang Sun, Yunhua Zhou, Xiangyang Liu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu.* [[pdf](https://arxiv.org/pdf/2105.13792.pdf)]
 
-12. **Elbert: Fast Albert with Confidence-Window Based Early Exit.** Preprint Jul 2021.
+14. **ELBERT: Fast Albert with Confidence-Window Based Early Exit.** Preprint Jul 2021.
 
     *Keli Xie, Siyuan Lu, Meiqi Wang, Zhongfeng Wang.* [[pdf](https://arxiv.org/pdf/2107.00175.pdf)]
 
-13. **CascadeBERT: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade.** EMNLP 2021.
+15. **CascadeBERT: Accelerating Inference of Pre-trained Language Models via Calibrated Complete Models Cascade.** EMNLP 2021.
 
     *Lei Li, Yankai Lin, Deli Chen, Shuhuai Ren, Peng Li, Jie Zhou, Xu Sun.* [[pdf](https://arxiv.org/pdf/2012.14682.pdf)]
 
-14. **Consistent Accelerated Inference via Confident Adaptive Transformers.** EMNLP 2021.
+16. **Consistent Accelerated Inference via Confident Adaptive Transformers.** EMNLP 2021.
 
     *Tal Schuster, Adam Fisch, Tommi Jaakkola, Regina Barzilay.* [[pdf](https://arxiv.org/pdf/2104.08803.pdf)]
 
