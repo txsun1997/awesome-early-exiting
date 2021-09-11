@@ -81,7 +81,7 @@ A unified benchmark is coming soon :)
 
 10. **TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference.** ACL 2021.
 
-   *Deming Ye, Yankai Lin, Yufei Huang, Maosong Sun.* [[pdf](https://aclanthology.org/2021.naacl-main.463.pdf)]
+    *Deming Ye, Yankai Lin, Yufei Huang, Maosong Sun.* [[pdf](https://aclanthology.org/2021.naacl-main.463.pdf)]
 
 11. **EBERT: Efficient BERT Inference with Dynamic Structured Pruning.** ACL 2021.
 
