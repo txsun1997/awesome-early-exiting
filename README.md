@@ -23,7 +23,11 @@ Early exiting methods usually add internal classifiers to different layers of a 
 
 ## Benchmarks
 
-**ELUE: Efficient Language Understanding Evaluation**. [[website](http://eluebenchmark.fastnlp.top/)]
+<img src="https://txsun1997.github.io/pictures/ELUE_logo_text.png" alt="ELUE Benchmark" style="zoom:33%;" />
+
+**Towards Efficient NLP: A Standard Evaluation and A Strong Baseline**. Preprint Oct 2021.
+
+*Xiangyang Liu\*, Tianxiang Sun\*, Junliang He, Lingling Wu, Jiawen Wu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu.* \[[pdf](https://txsun1997.github.io/papers/elue_paper.pdf)\][[website](http://eluebenchmark.fastnlp.top/)]
 
 ## Papers
 
