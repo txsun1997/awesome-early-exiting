@@ -23,7 +23,7 @@ Early exiting methods usually add internal classifiers to different layers of a 
 
 ## Benchmarks
 
-<img width="329" height="150" src="https://txsun1997.github.io/pictures/ELUE_logo_text.png" alt="ELUE Benchmark"/>
+<img width="329" height="150" src="https://txsun1997.github.io/pictures/elue.png" alt="ELUE Benchmark"/>
 
 **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline**. Preprint Oct 2021.
 
