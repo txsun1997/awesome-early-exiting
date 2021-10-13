@@ -27,7 +27,7 @@ Early exiting methods usually add internal classifiers to different layers of a 
 
 **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline**. Preprint Oct 2021.
 
-*Xiangyang Liu\*, Tianxiang Sun\*, Junliang He, Lingling Wu, Jiawen Wu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu.* \[[pdf](https://txsun1997.github.io/papers/elue_paper.pdf)\][[website](http://eluebenchmark.fastnlp.top/)]
+*Xiangyang Liu\*, Tianxiang Sun\*, Junliang He, Lingling Wu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu.* \[[pdf](https://txsun1997.github.io/papers/elue_paper.pdf)\][[website](http://eluebenchmark.fastnlp.top/)]
 
 ## Papers
 
