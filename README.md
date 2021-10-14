@@ -110,6 +110,30 @@ Early exiting methods usually add internal classifiers to different layers of a 
 16. **Consistent Accelerated Inference via Confident Adaptive Transformers.** EMNLP 2021.
 
     *Tal Schuster, Adam Fisch, Tommi Jaakkola, Regina Barzilay.* [[pdf](https://arxiv.org/pdf/2104.08803.pdf)]
+    
+17. **Compressing Large-Scale Transformer-Based Models: A Case Study on BERT.** ACL 2021.
+
+    *Prakhar Ganesh, Yao Chen, Xin Lou, Mohammad Ali Khan, Yin Yang, Hassan Sajjad, Preslav Nakov, Deming Chen, Marianne Winslett.* [[pdf](https://watermark.silverchair.com/tacl_a_00413.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAs4wggLKBgkqhkiG9w0BBwagggK7MIICtwIBADCCArAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMHOXDQdTjeRsoXMDFAgEQgIICgdh-TdPOxoaPfz4qJ7fbluvP-T3yFCo57blu17QkYDXG-ARcyIN6IB8ncMVqvOVf-Hwrz9iDDK8wJYL_OGoISF4w5benZ9tfr5LFY5-5l4I7cHtyXzZCph2vTMywYQNdVNU_bEeDXKWvEYycXOlborLSR_Bett4qrlwwUeRtu3rs4u9ZsikMpqyDuIrcZZlQsCirnZjlWPLE3x7p-BdrOv9bYRbhI5rEyvhLdMLPTD0hFkHafvDIylJWbnoGx1ePV4V-kwv9J5aH_G9Sj9u_HFCpXi4DszIgmdpxj3vjWIJSqMVduLLpgzZ6cr77qCSGnZMYDafn1sqZ1eguvfAeX9tnrJJ4m8V0d7tF9xkgq-AJjDwyGxOkGx-lnGP7YNzST1Ca9eVQuGNtlzS5IUY9EbGLfLJRHZw5saU47TddGDzVtXtyrWl3ArlMJbbBMkDTE0KTzPbfY5rvgx4iZq_01fRK1QBpYCxk2dyGclNyrXq1816_JKdq49BYnliP75WDsZJKUU2ef9xCRUGBUqgdTtfcxQasjXcQktH5F1m9IRiSn8ErzO0ivNMmn4eRoJe-C2ab0MaNB_UOVGJyLdImMDnACQQwn2l6_YqUG0cskxSntSYhbuwFaOtea1BzmyMW2UKG2gnd9vcoGzVlHa93CBMfje1CdR82mj0nNd2VRSd623MzmIIt2R-QdhFz_HXHRPrCuVqztqbuYtWaLgxa7J49Yr__mKksSwIMPnP3wV_TlW37tB6qeuS2RaOJrD3R6JGLSmHk1-juIJPtNLYV5Zs_7zcBrYNni7uFlzydOINWk8MVYheUhP5deuqAEk6EXIhmO-yLOka-AXpuVmSbi2D_)]
+    
+18. **DynaBERT: Dynamic BERT with Adaptive Width and Depth.** NeurlPS 2020.
+
+    *Lu Hou, Zhiqi Huang, Lifeng Shang, Xin Jiang, Xiao Chen, Qun Liu.* [[pdf](https://arxiv.org/pdf/2004.04037.pdf)]
+    
+19. **Early Exiting BERT for Efficient Document Ranking.** ACL 2020.
+
+    *Ji Xin, Rodrigo Nogueira, Yaoliang Yu, Jimmy Lin.* [[pdf](https://aclanthology.org/2020.sustainlp-1.11.pdf)]
+    
+20. **DACT-BERT: Differentiable Adaptive Computation Time for an Efficient BERT Inference.** Preprint Sep 2021.
+
+    *Cristóbal Eyzaguirre, Felipe del Río, Vladimir Araujo, Álvaro Soto.* [[pdf](https://arxiv.org/pdf/2109.11745.pdf)]
+    
+21. **RomeBERT: Robust Training of Multi-Exit BERT.** Preprint Jan 2021.
+
+    *Shijie Geng, Peng Gao, Zuohui Fu, Yongfeng Zhang.* [[pdf](https://arxiv.org/pdf/2101.09755.pdf)]
+    
+22. **Consistent Accelerated Inference via Confident Adaptive Transformers** Preprint Sep 2021.
+
+    *Tal Schuster, Adam Fisch, Tommi Jaakkola, Regina Barzilay* [[pdf](https://arxiv.org/pdf/2104.08803.pdf)]
 
 ### Static Methods
 
