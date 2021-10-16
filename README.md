@@ -85,7 +85,7 @@ Early exiting methods usually add internal classifiers to different layers of a 
 
 10. **Accelerating BERT Inference for Sequence Labeling via Early-Exit.** ACL 2021.
 
-   *Xiaonan Li, Yunfan Shao, Tianxiang Sun, Hang Yan, Xipeng Qiu, Xuanjing Huang.* [[pdf](https://aclanthology.org/2021.acl-long.16.pdf)]
+    *Xiaonan Li, Yunfan Shao, Tianxiang Sun, Hang Yan, Xipeng Qiu, Xuanjing Huang.* [[pdf](https://aclanthology.org/2021.acl-long.16.pdf)]
 
 11. **LeeBERT: Learned Early Exit for BERT with Cross-Level Optimization.** ACL 2021.
 
