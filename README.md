@@ -36,12 +36,16 @@ Early exiting methods usually add internal classifiers to different layers of a 
 1. **Dynamic Neural Networks: A Survey.** Preprint Feb 2021.
 
    *Yizeng Han, Gao Huang, Shiji Song, Le Yang, Honghui Wang, Yulin Wang.* [[pdf](https://arxiv.org/pdf/2102.04906.pdf)]
+   
+2. **A Survey on Dynamic Neural Networks for Natural Language Processing.** Preprint Feb 2022.
 
-2. **Split Computing and Early Exiting for Deep Learning Applications: Survey and Research Challenges.** Preprint Mar 2021.
+   *Canwen Xu, Julian McAuley.* [[pdf](https://arxiv.org/pdf/2202.07101.pdf)]
+
+3. **Split Computing and Early Exiting for Deep Learning Applications: Survey and Research Challenges.** Preprint Mar 2021.
 
    *Yoshitomo Matsubara, Marco Levorato, Francesco Restuccia.* [[pdf](https://arxiv.org/pdf/2103.04505.pdf)]
 
-3. **Adaptive Inference through Early-Exit Networks: Design, Challenges and Directions.** EMDL 2021.
+4. **Adaptive Inference through Early-Exit Networks: Design, Challenges and Directions.** EMDL 2021.
 
    *Stefanos Laskaridis, Alexandros Kouris, Nicholas D. Lane.* [[pdf](https://arxiv.org/pdf/2106.05022.pdf)]
 
