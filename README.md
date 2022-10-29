@@ -199,6 +199,10 @@ Early exiting methods usually add internal classifiers to different layers of a 
 
     *Hari Narayan N U, Manjesh K. Hanawal, Avinash Bhardwaj.* [[pdf](https://arxiv.org/abs/2209.09480)] 
     
+36. **PoWER-BERT: Accelerating BERT Inference via Progressive Word-vector Elimination.** ICML 2020
+
+    *Saurabh Goyal, Anamitra R. Choudhury, Saurabh M. Raje, Venkatesan T. Chakaravarthy, Yogish Sabharwal, Ashish Verma.* [[pdf](https://arxiv.org/abs/2001.08950)]
+    
 ### Static Methods
 
 1. **Depth-Adaptive Transformer.** ICLR 2020.
