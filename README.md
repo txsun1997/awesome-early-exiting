@@ -202,6 +202,10 @@ Early exiting methods usually add internal classifiers to different layers of a 
 36. **PoWER-BERT: Accelerating BERT Inference via Progressive Word-vector Elimination.** ICML 2020
 
     *Saurabh Goyal, Anamitra R. Choudhury, Saurabh M. Raje, Venkatesan T. Chakaravarthy, Yogish Sabharwal, Ashish Verma.* [[pdf](https://arxiv.org/abs/2001.08950)]
+
+37. **Accelerating Inference for Pretrained Language Models by Unified Multi-Perspective Early Exiting.** COLING 2022
+
+    *Jun Kong, Jin Wang, Liang-Chih Yu, Xuejie Zhang.* [[pdf]([https://arxiv.org/abs/2001.08950](https://aclanthology.org/2022.coling-1.414.pdf))]
     
 ### Static Methods
 
