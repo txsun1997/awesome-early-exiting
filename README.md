@@ -153,7 +153,7 @@ Early exiting methods usually add internal classifiers to different layers of a 
    
 24. **AdapLeR: Speeding up Inference by Adaptive Length Reduction.** ACL 2022
 
-    *Ali Modarressi, Hosein Mohebbi, Mohammad Taher Pilehvar.* [[pdf](https://arxiv.org/abs/2203.08991)]\
+    *Ali Modarressi, Hosein Mohebbi, Mohammad Taher Pilehvar.* [[pdf](https://arxiv.org/abs/2203.08991)]
     
 25. **BE3R: BERT based Early-Exit Using Expert Routing.** KDD 2022
 
