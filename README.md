@@ -48,7 +48,15 @@ Early exiting methods usually add internal classifiers to different layers of a 
 4. **Adaptive Inference through Early-Exit Networks: Design, Challenges and Directions.** EMDL 2021.
 
    *Stefanos Laskaridis, Alexandros Kouris, Nicholas D. Lane.* [[pdf](https://arxiv.org/pdf/2106.05022.pdf)]
+   
+5. **A Survey on Green Deep Learning.** Preprint 2021.
 
+   *Jingjing Xu, Wangchunshu Zhou, Zhiyi Fu, Hao Zhou, Lei Li.* [[pdf](https://arxiv.org/abs/2111.05193)] 
+
+6. **Efficient Methods for Natural Language Processing: A Survey.** Preprint 2022.
+
+   *Marcos Treviso, Tianchu Ji, Ji-Ung Lee, Betty van Aken, Qingqing Cao, Manuel R. Ciosici, Michael Hassid, Kenneth Heafield, Sara Hooker, Pedro H. Martins, André F. T. Martins, Peter Milder, Colin Raffel, Edwin Simpson, Noam Slonim, Niranjan Balasubramanian, Leon Derczynski, Roy Schwartz.* [[pdf](https://arxiv.org/abs/2209.00099)]
+   
 ### Dynamic Methods
 
 1. **DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference.** ACL 2020.
@@ -126,10 +134,79 @@ Early exiting methods usually add internal classifiers to different layers of a 
 19. **DACT-BERT: Differentiable Adaptive Computation Time for an Efficient BERT Inference.** Preprint Sep 2021.
 
     *Cristóbal Eyzaguirre, Felipe del Río, Vladimir Araujo, Álvaro Soto.* [[pdf](https://arxiv.org/pdf/2109.11745.pdf)]
+
 20. **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline**. NAACL 2022.
 
     *Xiangyang Liu\*, Tianxiang Sun\*, Junliang He, Lingling Wu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu.* \[[pdf](https://arxiv.org/pdf/2110.07038.pdf)\]
 
+21. **GAML-BERT: Improving BERT Early Exiting by Gradient Aligned Mutual Learning.** EMNLP 2021
+
+    *Wei Zhu, Xiaoling Wang, Yuan Ni, Guotong Xie.* [[pdf](https://aclanthology.org/2021.emnlp-main.242/)]
+    
+22. **PALBERT: Teaching ALBERT to Ponder.** NeurIPS 2022
+
+    *Nikita Balagansky, Daniil Gavrilov.* [[pdf](https://arxiv.org/pdf/2204.03276.pdf)]  
+    
+23. **TangoBERT: Reducing Inference Cost by using Cascaded Architecture.** Preprint 2022
+
+    *Jonathan Mamou, Oren Pereg, Moshe Wasserblat, Roy Schwartz.* [[pdf](https://arxiv.org/abs/2204.06271)]
+   
+24. **AdapLeR: Speeding up Inference by Adaptive Length Reduction.** ACL 2022
+
+    *Ali Modarressi, Hosein Mohebbi, Mohammad Taher Pilehvar.* [[pdf](https://arxiv.org/abs/2203.08991)]
+    
+25. **BE3R: BERT based Early-Exit Using Expert Routing.** KDD 2022
+
+    *Sourab Mangrulkar, S. AnkithM., Vivek Sembium.* [[pdf](https://dl.acm.org/doi/pdf/10.1145/3534678.3539132)]
+
+26. **Confident Adaptive Language Modeling.** NeurIPS 2022
+
+    *Tal Schuster, Adam Fisch, Jai Gupta, Mostafa Dehghani, Dara Bahri, Vinh Q. Tran, Yi Tay, Donald Metzler.* [[pdf](https://arxiv.org/abs/2207.07061)]
+    
+27. **COST-EFF: Collaborative Optimization of Spatial and Temporal Efficiency with Slenderized Multi-exit Language Models.** EMNLP 2022
+
+    *Bowen Shen, Zheng Lin, Yuanxin Liu, Zhengxiao Liu, Lei Wang, Weiping Wang.* [[pdf](https://arxiv.org/abs/2210.15523)]
+    
+28. **E-LANG: Energy-Based Joint Inferencing of Super and Swift Language Models.** ACL 2022
+
+    *Mohammad Akbari, Amin Banitalebi-Dehkordi, Yong Zhang.* [[pdf](https://arxiv.org/abs/2203.00748)]
+
+29. **Length-Adaptive Transformer: Train Once with Length Drop, Use Anytime with Search.** ACL 2021
+
+    *Gyuwan Kim, Kyunghyun Cho.* [[pdf](https://aclanthology.org/2021.acl-long.508/)]
+
+30. **Model Cascading: Towards Jointly Improving Efficiency and Accuracy of NLP Systems.** EMNLP 2022
+
+    *Neeraj Varshney, Chitta Baral.* [[pdf](https://arxiv.org/abs/2210.05528)]
+    
+31. **PCEE-BERT: Accelerating BERT Inference via Patient and Confident Early Exiting.** NAACL 2022
+
+    *Zhen Zhang, Wei Zhu, Jinfan Zhang, Peng Wang, Rize Jin, Tae-Sun Chung.* [[pdf](https://aclanthology.org/2022.findings-naacl.25/)]
+    
+32. **Pyramid-BERT: Reducing Complexity via Successive Core-set based Token Selection.** ACL 2022
+
+    *Xin Huang, Ashish Khetan, Rene Bidart, Zohar Karnin.* [[pdf](https://arxiv.org/abs/2203.14380)]
+    
+33. **SkipBERT: Efficient Inference with Shallow Layer Skipping.** ACL 2022
+
+    *Jue Wang, Ke Chen, Gang Chen, Lidan Shou, Julian McAuley.* [[pdf](https://aclanthology.org/2022.acl-long.503/)]  
+
+34. **Transkimmer: Transformer Learns to Layer-wise Skim.** ACL 2022
+
+    *Yue Guan, Zhengyi Li, Jingwen Leng, Zhouhan Lin, Minyi Guo.* [[pdf](https://arxiv.org/abs/2205.07324)] 
+
+35. **Unsupervised Early Exit in DNNs with Multiple Exits.** Preprint 2022
+
+    *Hari Narayan N U, Manjesh K. Hanawal, Avinash Bhardwaj.* [[pdf](https://arxiv.org/abs/2209.09480)] 
+    
+36. **PoWER-BERT: Accelerating BERT Inference via Progressive Word-vector Elimination.** ICML 2020
+
+    *Saurabh Goyal, Anamitra R. Choudhury, Saurabh M. Raje, Venkatesan T. Chakaravarthy, Yogish Sabharwal, Ashish Verma.* [[pdf](https://arxiv.org/abs/2001.08950)]
+
+37. **Accelerating Inference for Pretrained Language Models by Unified Multi-Perspective Early Exiting.** COLING 2022
+
+    *Jun Kong, Jin Wang, Liang-Chih Yu, Xuejie Zhang.* [[pdf](https://aclanthology.org/2022.coling-1.414.pdf)]
+    
 ### Static Methods
 
 1. **Depth-Adaptive Transformer.** ICLR 2020.
