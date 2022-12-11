@@ -134,8 +134,8 @@ Early exiting methods usually add internal classifiers to different layers of a 
 19. **DACT-BERT: Differentiable Adaptive Computation Time for an Efficient BERT Inference.** Preprint Sep 2021.
 
     *Cristóbal Eyzaguirre, Felipe del Río, Vladimir Araujo, Álvaro Soto.* [[pdf](https://arxiv.org/pdf/2109.11745.pdf)]
-    
-20. **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline**. Preprint Oct 2021.
+
+20. **Towards Efficient NLP: A Standard Evaluation and A Strong Baseline**. NAACL 2022.
 
     *Xiangyang Liu\*, Tianxiang Sun\*, Junliang He, Lingling Wu, Xinyu Zhang, Hao Jiang, Zhao Cao, Xuanjing Huang, Xipeng Qiu.* \[[pdf](https://arxiv.org/pdf/2110.07038.pdf)\]
 
