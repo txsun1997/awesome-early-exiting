@@ -50,16 +50,19 @@ Early exiting methods usually add internal classifiers to different layers of a 
    *Stefanos Laskaridis, Alexandros Kouris, Nicholas D. Lane.* [[pdf](https://arxiv.org/pdf/2106.05022.pdf)]
 
 ### Dynamic Methods
+1. **Jump to Conclusions: Short-Cutting Transformers With Linear Transformation**
 
+   *Alexander Yom Din, Taelin Karidi, Leshem Choshen, Mor Geva* [[pdf](https://arxiv.org/abs/2303.09435)]
+   
 1. **DeeBERT: Dynamic Early Exiting for Accelerating BERT Inference.** ACL 2020.
 
    *Ji Xin, Raphael Tang, Jaejun Lee, Yaoliang Yu, and Jimmy Lin.* [[pdf](https://aclanthology.org/2020.acl-main.204.pdf)]
 
-2. **The Right Tool for the Job: Matching Model and Instance Complexities.** ACL 2020.
+1. **The Right Tool for the Job: Matching Model and Instance Complexities.** ACL 2020.
 
    *Roy Schwartz, Gabriel Stanovsky, Swabha Swayamdipta, Jesse Dodge, and Noah A. Smith.* [[pdf](https://aclanthology.org/2020.acl-main.593.pdf)]
 
-3. **FastBERT: a Self-distilling BERT with Adaptive Inference Time.** ACL 2020.
+1. **FastBERT: a Self-distilling BERT with Adaptive Inference Time.** ACL 2020.
 
    *Weijie Liu, Peng Zhou, Zhiruo Wang, Zhe Zhao, Haotang Deng, and Qi Ju.* [[pdf](https://aclanthology.org/2020.acl-main.537.pdf)]
 
